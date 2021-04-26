@@ -37,7 +37,7 @@ Message Retention:
 
 Because this is a free Slack account, we have restricted scrollback, but Slack--the company--retains complete logs of all channels and direct messages back to the creation of MegaMaker. Slack is a U.S. company and therefore subject to subpoenas from U.S. courts. Our logs may be subject to subpoena and could become public as part of legal proceedings.
 
-However, our forums are self-hosted using Discourse. We uses Discourse's message retention features to delete old messages and uploaded files. 
+However, our forums are self-hosted using Playgroup. We uses Playgroup's message retention features to archive important threads from Slack. 
 
 Harassment:
 -----------
